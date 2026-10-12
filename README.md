@@ -1,12 +1,12 @@
 # aicore_ambulancejob
-EMS job for Aicore. Health, injuries, bleeding, last stand and death are handled by [aicore_medical](https://github.com/0error-scripts/aicore_medical); this resource adds the EMS job, hospitals and medical items on top of it.
+EMS job for Aicore. Health, injuries, bleeding, last stand and death are handled by [aicore_medical](https://github.com/aicore-fivem/aicore_medical); this resource adds the EMS job, hospitals and medical items on top of it.
 
 > 💬 **Need help or want to support Aicore?** Join our Discord: [https://discord.gg/xfQFcWjak](https://discord.gg/xfQFcWjak)
 
 
 ## Dependencies
-- [aicore](https://github.com/0error-scripts/aicore)
-- [aicore_medical](https://github.com/0error-scripts/aicore_medical)
+- [aicore](https://github.com/aicore-fivem/aicore)
+- [aicore_medical](https://github.com/aicore-fivem/aicore_medical)
 - [ox_lib](https://github.com/overextended/ox_lib)
 - [ox_inventory](https://github.com/overextended/ox_inventory)
 - [ox_target](https://github.com/overextended/ox_target) - only when `useTarget` is enabled
